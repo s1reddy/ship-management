@@ -54,9 +54,9 @@ The application will be available at `http://localhost:5173`
 - Email: admin@entnt.in
 - Password: admin123
 
-### Regular User
-- Email: user@entnt.in
-- Password: user123
+### inspector User
+- Email: inspector@entnt.in
+- Password: inspect123
 
 ## Deployment
 
