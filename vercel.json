@@ -15,7 +15,7 @@
       "dest": "/index.html"
     }
   ],
-  "buildCommand": "npm run build",
+  "buildCommand": "yarn build",
   "outputDirectory": "dist",
   "framework": "vite",
   "headers": [
@@ -38,4 +38,4 @@
       ]
     }
   ]
-} 
+}
